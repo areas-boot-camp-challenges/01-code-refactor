@@ -1,11 +1,12 @@
-/* universal */
+
+/* reset styles to a baseline */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
-/* body */
+/* the page’s background color */
 body {
   background-color: #d9dcd6;
 }
@@ -20,7 +21,7 @@ p {
   font-size: 16px;
 }
 
-/* header */
+/* the company’s name and site navigation (header) */
 header {
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -55,7 +56,7 @@ header nav ul li {
   margin-left: 25px;
 }
 
-/* hero */
+/* the main image that’s under the header */
 #hero {
   height: 800px;
   width: 100%;
@@ -65,7 +66,7 @@ header nav ul li {
   background-position: center;
 }
 
-/* services column */
+/* the services (primary content) */
 #services {
   width: 75%;
   display: inline-block;
@@ -100,7 +101,7 @@ header nav ul li {
   margin-left: 25px;
 }
 
-/* benefits column */
+/* the benefits (secondary content) */
 #benefits {
   margin-right: 20px;
   padding: 20px;
@@ -128,7 +129,7 @@ header nav ul li {
   max-width: 150px;
 }
 
-/* footer */
+/* the footer */
 footer {
   padding: 30px;
   clear: both;

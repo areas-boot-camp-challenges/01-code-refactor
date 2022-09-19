@@ -18,4 +18,4 @@ Credit goes to [UC Berkeley Extension Coding Bootcamp](https://extension.berkele
 
 ## License
 
-See [LICENSE](./LICENSE)
+See [LICENSE](./LICENSE).

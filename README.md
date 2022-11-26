@@ -8,7 +8,7 @@ This project is configured with [GitHub](https://pages.github.com). To learn mor
 
 ## Usage
 
-This project is available at [areas-boot-camp.github.io/challenge-1-code-refactor/](https://areas-boot-camp.github.io/challenge-1-code-refactor/).
+This project is available at [areas-boot-camp.github.io/challenge-1-code-refactor/](https://areas-boot-camp.github.io/01-code-refactor/).
 
 ![A screenshot of the Horiseon site](./assets/horiseon-screenshot.png)
 
